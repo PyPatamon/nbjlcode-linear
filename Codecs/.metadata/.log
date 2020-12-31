@@ -1,0 +1,28 @@
+!SESSION 2016-03-16 17:41:27.731 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=us_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.core.resources 4 77 2016-03-16 17:42:33.581
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-03-16 17:42:33.581
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-03-16 17:42:33.581
+!MESSAGE /home/naiyong/Codecs overlaps the workspace location: /home/naiyong/Codecs
+
+!ENTRY org.eclipse.core.resources 4 77 2016-03-16 17:43:23.117
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-03-16 17:43:23.117
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-03-16 17:43:23.117
+!MESSAGE /home/naiyong/Codecs overlaps the workspace location: /home/naiyong/Codecs
+
+!ENTRY org.eclipse.core.resources 4 77 2016-03-16 17:43:49.484
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2016-03-16 17:43:49.484
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2016-03-16 17:43:49.484
+!MESSAGE /home/naiyong/Codecs overlaps the workspace location: /home/naiyong/Codecs
